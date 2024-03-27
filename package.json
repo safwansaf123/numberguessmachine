@@ -1,0 +1,22 @@
+{
+  "name": "safwansaf-numberguessmachine",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index5.js",
+  "type": "module",
+  "publishConfig": {"access": "public"},
+  "bin": "index5.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "safoo",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "numberguessmachine": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
